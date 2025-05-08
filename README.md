@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.ibb.co/SDz7tvQR/photo-2024-05-03-15-21-47.jpg" alt="Arian Kheradmand" width="20%">
   <h1>👋 Hi, I'm Arian Kheradmand</h1>
   <h3>Frontend Developer | Next.js Specialist | React Expert</h3>
 </div>
