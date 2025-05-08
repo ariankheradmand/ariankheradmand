@@ -34,7 +34,7 @@ Python        ████░░░░░░░  40%
 
 ### 📈 Weekly Development Breakdown
 ```text
-Next.js      12 hrs 40 mins  ███████████░░  70%
+Next.js      12 hrs 40 mins  ██████████     70%
 React        5 hrs 20 mins   ████░░░░░░░░░  30%
 JavaScript   4 hrs 15 mins   ███░░░░░░░░░░  25%
 Tailwind     3 hrs 30 mins   ██░░░░░░░░░░░  20%
