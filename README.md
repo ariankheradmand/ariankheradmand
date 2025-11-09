@@ -1,16 +1,15 @@
 <div align="center">
-  <h1>👋 Hey, I'm Arian Kheradmand</h1>
-  <h3>Frontend Developer | Next.js Enthusiast | UI Interaction Lover</h3>
+  <h1>Hey, I'm Arian Kheradmand</h1>
+  <h3>Frontend Developer | Next.js Specialist | Modular UI Architect</h3>
 </div>
 
 ---
 
 ### 🚀 About Me  
-I'm a **Frontend Developer* freelance**, specializing in building modern, dynamic, and high-performance web applications.  
-My passion for **web technologies** began early — fueled by curiosity about how the web works behind the scenes.  
-I enjoy creating **clean, responsive, and interactive user experiences**, and I’m always exploring **the latest tools and frameworks** to push the boundaries of what’s possible on the web.  
+I'm a **Frontend Developer** freelance, focused on building **modern**, **modular**, and **high-performance web applications**.  
+My journey in IT started early, driven by curiosity about how technology shapes human interaction. Over time, I’ve developed a deep passion for crafting **clean UI architecture**, **interactive motion experiences**, and **scalable front-end systems** using **Next.js** and **React**.  
 
-I believe great frontend development is equal parts **creativity**, **logic**, and **precision** — and I thrive on finding that perfect balance.  
+I believe the best code is not just functional — it’s **beautifully structured**, **easy to maintain**, and **built for growth**.  
 
 ---
 
@@ -19,9 +18,10 @@ I believe great frontend development is equal parts **creativity**, **logic**, a
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
@@ -33,10 +33,24 @@ I believe great frontend development is equal parts **creativity**, **logic**, a
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+---
+
+### 🧩 Custom & Modular Components  
+I design **custom, reusable UI components** and **modular design systems** that keep projects scalable and developer-friendly.  
+My approach focuses on:  
+- **Separation of concerns** — keeping logic, layout, and style layers cleanly divided.  
+- **Reusable component patterns** — built with flexibility for future scaling.  
+- **GSAP-powered interactions** — smooth, natural motion that enhances UX.  
+- **Zustand-based state management** — lightweight, predictable, and easy to extend.  
+
+These principles power everything I build, from **video players** and **animated interfaces** to **dynamic dashboards** and **multi-step forms**.
 
 ---
 
@@ -60,4 +74,4 @@ I believe great frontend development is equal parts **creativity**, **logic**, a
 ---
 
 ### 💡 Fun Fact  
-When I’m not coding, I love exploring UI motion design, experimenting with GSAP animations, and imagining how technology can make everyday interactions more **playful** and **meaningful**.
+When I’m not writing code, I’m probably designing **micro-interactions**, refining **UI motion physics**, or experimenting with **modular architecture patterns** to make frontends more **alive and intuitive**.
